@@ -11,7 +11,7 @@ http.createServer(function (request, response) {
   response.writeHead(200, {'Content-Type': 'text/plain'})
 
   // Send the response body as 'Hello World'
-  response.end('Hello World\n')
+  response.end('Hello World from app.js\n')
 }).listen(4000)
 
 // Console will print the message
