@@ -11,5 +11,9 @@
     "test": "test"
   },
   "author": "Benny Skogberg",
-  "license": "ISC"
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BennySkogberg/node-hello-world.git"
+  }
 }
